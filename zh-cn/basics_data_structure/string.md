@@ -43,4 +43,17 @@ char ch = s2.charAt(4); // return 'r'
 int index = s2.indexOf('r'); // return 4. if not found, return -1
 ```
 
+## C
+```c
+strcpy(s1, "test");
+strncpy(raead.type, "aead", sizeof(raead.type));
+strcat(bp, ahd_info);
+strncat(hba_attr->os_name, TEST,
+			sizeof(TEST));
+strcmp(bus->name, "pci");
+a = strchr(name, '\r');
+strstr(pos->line, s);
+strlen(s1);
+```
+
 StringBuffer 与 StringBuilder, 前者保证线程安全，后者不是，但单线程下效率高一些，一般使用 StringBuilder.
