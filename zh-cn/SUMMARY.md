@@ -2,7 +2,7 @@
 
 * [Preface](README.md)
 * [Part I - Basics](part_i_basics/README.md)
-* [Basics Data Structure](basics_data_structure/README.md)
+* [Basics Data Structure](../zh-tw/basics_data_structure/README.md)
    * [String](basics_data_structure/string.md)
    * [Linked List](basics_data_structure/linked_list.md)
    * [Binary Tree](basics_data_structure/binary_tree.md)
