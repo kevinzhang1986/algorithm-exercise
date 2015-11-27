@@ -32,6 +32,8 @@ public class ListNode {
 }
 ```
 
+
+
 ## 链表的基本操作
 
 ### 反转链表
@@ -128,6 +130,14 @@ public DListNode reverse(DListNode head) {
     }
     return curr;
 }
+```
+
+### C
+
+```c
+struct list_head {
+	struct list_head *next, *prev;
+};
 ```
 
 ### 删除链表中的某个节点
